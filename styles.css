@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+
+  /* Paragraph 1: Yellow background, green border */
+    #yellow {
+      background-color: yellow;
+      border: 1px solid green;
+    }
+
+    /* Paragraph 2: Red background, black border */
+    #red {
+      background-color: red;
+      border: 1px solid black;
+    }
+
+    /* Paragraph 3: Green background, yellow border */
+    #green {
+      background-color: green;
+      border: 1px solid yellow;
+    }
+
+    /* Extra spacing between paragraphs for clear view */
+    p {
+      padding: 5px;
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+
